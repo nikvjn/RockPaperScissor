@@ -1,4 +1,4 @@
-# 🪨 PattharGame – On-Chain Rock Paper Scissors 🎮
+# 🪨 RockPaperScissor – On-Chain Rock Paper Scissors 🎮
 
 A fun and simple **Solidity-based decentralized game** built on Ethereum.  
 Two players can wager ETH, choose **Rock**, **Paper**, or **Scissors**, and the contract automatically decides the winner — all **on-chain**, without a third party!

@@ -7,7 +7,8 @@ Two players can wager ETH, choose **Rock**, **Paper**, or **Scissors**, and the 
 
 Contract Link: https://celo-sepolia.blockscout.com/tx/0x9127d80e11379c93a39105366717ba9379b69af8b05a549e7f48f81c649499c0
 
-https://ibb.co/C5NdMTts
+<img width="1331" height="835" alt="image" src="https://github.com/user-attachments/assets/65c7228e-c887-420e-adfa-c772774f96b2" />
+
 
 
 ## 🧾 Project Description

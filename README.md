@@ -5,9 +5,8 @@ Two players can wager ETH, choose **Rock**, **Paper**, or **Scissors**, and the 
 
 ---
 
-https://celo-sepolia.blockscout.com/tx/0x9127d80e11379c93a39105366717ba9379b69af8b05a549e7f48f81c649499c0
-<img width="1342" height="872" alt="Screenshot 2025-10-29 135439" src="https://github.com/user-attachments/assets/c999fbdc-7525-4a93-a3d9-bc6c2aa93760" />
-
+Contract Link: https://celo-sepolia.blockscout.com/tx/0x9127d80e11379c93a39105366717ba9379b69af8b05a549e7f48f81c649499c0
+<img width="1342" height="872
 
 
 ## 🧾 Project Description
